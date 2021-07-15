@@ -7,6 +7,6 @@ namespace Elastica\Query;
  *
  * This class is for forward compatibility reasons. For PHP 8 and above use MatchQuery as Match is reserved.
  */
-class MatchQuery extends Match
+class Match1Query extends Match1
 {
 }
